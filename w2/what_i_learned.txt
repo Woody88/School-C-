@@ -1,0 +1,4 @@
+What I did in this lab is built a class that read a file that contains information about stations and
+I generate an object for each station that is read from the file. 
+
+Things that I have learn is how to use enum. I have a bit more of an understanding of how scoping works because of the use of enums. I have also learned of to manipulate string objects.

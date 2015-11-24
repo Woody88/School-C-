@@ -1,0 +1,7 @@
+In lab w7 I had to parse a string that is read from a file using the class String
+parsing functions. Once the string is parse I would insert in a Product class
+which I would next insert in a STL vector that would be held in my Sale class.
+
+
+Things that I have learn, I learn how to work better with the find, substr functions of
+the String class. I also learned how to work with the vector STL container better.

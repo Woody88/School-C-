@@ -1,0 +1,1 @@
+what i did in this lab,I implemented a template class that accepts three argument types and used a parrarel array method. I leaned that templates help your program make more decision depending on whats being receive through the class. This allows a lot more flexibility.

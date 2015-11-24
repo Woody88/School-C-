@@ -1,0 +1,8 @@
+whatt I did in this lab is pass an argument to the command line, which will
+be pass to a function that will process the string and create a class if the string meets min requirement. This class is embedded in a namespace. 
+The namespace contains an ostream overload which is called after the creation of the object.
+
+In this workshop I have learned how to implement namespace, how
+to also use static variable and how to pass arguments to the command line. I also learned how to use guards for header file.
+Key point I learn that i always have to define the namespace when i need to define function or class in the implentation file and static variable remaining active till the end of the program.
+

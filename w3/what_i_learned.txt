@@ -1,0 +1,3 @@
+In This lab I implemented move constructor and move assignment operator as per the assignment.
+Things that I have learned is the effectiveness and the purpose of move and assignment constructor.
+I also learned a new data type the "size_t". 

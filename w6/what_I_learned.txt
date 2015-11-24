@@ -1,0 +1,6 @@
+I have programmed Grading system that outputs a student number, the student mark in 
+and lastly the student mark in alphabet.
+
+I have learned how to use the functional library. I have used a lambda function that accepts
+a float and returns a string. Things that i am not too clear about is what is the difference
+between the lambda function and a simple function that accepts a float and returns a string?
